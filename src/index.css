@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*
+/*  :root {
+  direction: rtl;
+} 
+
+ RTL overrides */
+/* .rtl {
+  direction: rtl;
+} */
+
+/* .ltr {
+  direction: ltr;
+} */
+
+/* Flip icons in RTL mode */
+/* .rtl svg:not(.no-flip) {
+  transform: scaleX(-1);
+}
+
+/* Adjust margins for RTL 
+.rtl .mr-1 {
+  margin-right: 0;
+  margin-left: 0.25rem;
+} */
+
+/* .rtl .mr-2 {
+  margin-right: 0;
+  margin-left: 0.5rem;
+}
+
+.rtl .mr-3 {
+  margin-right: 0;
+  margin-left: 0.75rem;
+}
+
+.rtl .mr-4 {
+  margin-right: 0;
+  margin-left: 1rem;
+}
+
+.rtl .ml-1 {
+  margin-left: 0;
+  margin-right: 0.25rem;
+}
+
+.rtl .ml-2 {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+.rtl .ml-3 {
+  margin-left: 0;
+  margin-right: 0.75rem;
+}
+
+.rtl .ml-4 {
+  margin-left: 0;
+  margin-right: 1rem;
+} 
+ */
